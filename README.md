@@ -5,7 +5,7 @@
 ### HTML-розмітка макета сторінки домашнього завдання #1, без CSS
 
 - 🇫
-  [Figma model](<https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?node-id=0-1&p=f&t=dqyl1qIESvdDCWUJ-0>) -
+  [Figma model](<https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?node-id=0-1&p=f&t=dqyl1qIESvdDCWUJ-0>)
 
 ## 🧷 Додаткові ресурси 📚
 
